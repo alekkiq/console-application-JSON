@@ -1,0 +1,44 @@
+[
+    {
+        "tuotenumero": 7,
+        "merkki": "Silo delux",
+        "mallinumero": 1995,
+        "lukumaara": 20,
+        "hinta": 1500
+    },
+    {
+        "tuotenumero": 3,
+        "merkki": "Future 2025",
+        "mallinumero": 2017,
+        "lukumaara": 100,
+        "hinta": 499
+    },
+    {
+        "tuotenumero": 6,
+        "merkki": "Luuri S43",
+        "mallinumero": "2000",
+        "lukumaara": "5",
+        "hinta": 300
+    },
+    {
+        "tuotenumero": 5,
+        "merkki": "XZL 34",
+        "mallinumero": 2015,
+        "lukumaara": 5,
+        "hinta": 100
+    },
+    {
+        "tuotenumero": 2,
+        "merkki": "Kosla MK4",
+        "mallinumero": "1999",
+        "lukumaara": "19",
+        "hinta": 200
+    },
+    {
+        "tuotenumero": 15,
+        "merkki": "Hoppa",
+        "mallinumero": "2000",
+        "lukumaara": "51",
+        "hinta": 200
+    }
+]
